@@ -89,6 +89,7 @@ p {
 }
 
 #signin {
+	color: white;
 	background-color: #4285f4;
 	padding: 8px 12px;
 	border-radius: 2px;
@@ -96,21 +97,12 @@ p {
 	font-weight: 900;
 }
 
-#signin a {
-	color:white;
-	opacity: 1;
-}
-
-#signin a:hover {
-	text-decoration: none;
-}
-
 #signin:hover {
 	box-shadow: 0 1px 1px 0 rgb(223, 225, 229);
 }
 
 #signin:active {
-	background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+	background: -webkit-linear-gradient(top,#3474e2,#4683ea);
 }
 
 .listitem {
